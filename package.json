@@ -1,0 +1,12 @@
+{
+  "name": "the-secret-society-of-old-man-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "puzzle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
