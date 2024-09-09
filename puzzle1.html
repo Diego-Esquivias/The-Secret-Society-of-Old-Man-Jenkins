@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puzzle 1</title>
+    <style>
+        body {
+            background-color: grey;
+            background-image: linear-gradient(to bottom right, rgb(255, 93, 93), rgb(76, 209, 219));
+            margin: auto;
+            text-align: center;
+            height: 100vh;
+            overflow: hidden;
+            color: black;
+        }
+
+        #instructions {
+            width: 50%;
+            margin: auto;
+        }
+
+        .t {
+            width: 5%;
+            margin: auto;
+            text-align: left;
+            font-size: x-large;
+        }
+
+        p {
+            font-size: x-large;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+
+        button {
+            font-size: x-large;
+            margin-top: 20px;
+            border-radius: 10px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Instructions</h1>
+    <p id="instructions">You will be given 6 levels where you have to find an answer (word/phrase) to the problems each page provides and type them into the URL (all lowercase) to proceed to the next level. There will be a hint button on each page that you can click if you are stuck.</p>
+
+    <h1>Level 1 (Guess the Phrase)</h1>
+    <p class="t">T</p>
+    <p>T Years</p>
+    <p class="t">T</p>
+    <p class="t">T</p>
+
+    <br>
+    <br>
+
+    <button onclick="myFunction()">Hint?</button>
+
+    <script>
+        function myFunction() {
+            alert("How many T's are there? Thats in the phrase");
+        }
+    </script>
+</body>
+</html>

@@ -1,26 +1,38 @@
-# The Secret Society of Old Man Jenkins
+# The Secret Society of Old Man Jenkins Key
 
-Level 1 - The whole page are shades of red
+Level 1 - 
+T
+T  years
+T
+T
 
-Answer - red
+Answer - fortyyears
 --------------------------------------------------------
-Level 2 - You're too slow (Blue/White Theme)
+Level 2 - 
+Give  Get
+Give  Get
+Give  Get
+Give  Get
 
-Answer - Sonic
+Answer - forgiveandforget
 --------------------------------------------------------
-Level 3 - 7 8 9
+Level 3 - 
+pPPod
 
-Answer - sevenatenine
+Answer - twopeasinapod
 --------------------------------------------------------
 Level 4 - 
+(The 'E' is Red)  E go go
 
-Answer - 
+Answer - readytogo
 --------------------------------------------------------
 Level 5 - 
+Lang4uage
 
-Answer - 
+Answer - foreignlanguage
 --------------------------------------------------------
-Level 6 - 
+Level 6 -
+Far Mace C
 
-Answer - 
+Answer - pharmacy
 --------------------------------------------------------
